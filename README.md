@@ -1,1 +1,2 @@
-# Sales-analysis-sql
+# Sales-analysis
+## Sales Funnel analysis using Google Big Query.
